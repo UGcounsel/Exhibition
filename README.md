@@ -87,6 +87,11 @@ This project demonstrates understanding of:
 - Academic software documentation and version control (Git & GitHub)
 ## 📸 Screenshots
 
+| | | |
+|:-:|:-:|:-:|
+| <img src="https://github.com/user-attachments/assets/5a19adad-986b-4bdf-a24d-6b508312cbf3" width="300"/> | <img src="https://github.com/user-attachments/assets/5a4834f0-31a0-4612-8b6c-47f4ca2b4509" width="300"/> | <img src="https://github.com/user-attachments/assets/7eea4a62-1e6f-46fc-b76f-4f1070f40d30" width="300"/> |
+
+
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use and modify for educational purposes.
 
