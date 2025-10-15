@@ -65,7 +65,7 @@ The system focuses on **CRUD (Create, Read, Update, Delete)** operations, enabli
 1. Clone the repository
 
 ```bash
-git clone https://github.com/UGcounsel/exhibit.git
+git clone https://github.com/UGcounsel/exhibition.git
 ```
 
 2. Open the project in your preferred IDE.
